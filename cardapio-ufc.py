@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #-*-coding: utf-8-*-
 # Cardápio UFC versão 0.1
 # Autor: Isac C.
